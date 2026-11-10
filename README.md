@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/👋_WELCOME_TO_MY_PROFILE-000000?style=for-the-badge&color=131313&labelColor=000000" alt="Welcome" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1f9c8f&center=true&vCenter=true&width=550&height=50&lines=Hi+there,+I'm+Shiva+kumar+Vardha;Computer+Science+Student;Full-Stack+Developer+%26+Builder" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=13AB64&center=true&vCenter=true&width=550&height=50&lines=Hi+there,+I'm+Shiva+kumar+Vardha;Computer+Science+Student;Full-Stack+Developer+%26+Builder" alt="Typing Banner" />
 </p>
 
 
