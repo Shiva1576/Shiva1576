@@ -23,4 +23,4 @@ I'm a Computer Science student passionate about backend development, applied AI,
 <p align="center">
  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Shiva1576&bg_color=00000000&color=1f9c8f&line=1f9c8f&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-<p align="center"><i>⭐️ From <a href="https://github.com/VarunUppu">VarunUppu</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/VarunUppu">Shiva kumar</a></i></p>
