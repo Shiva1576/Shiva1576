@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
+<!--# <p align="center">Hello! I'm Your Name</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B731&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+</p>
 **Shiva1576/Shiva1576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
